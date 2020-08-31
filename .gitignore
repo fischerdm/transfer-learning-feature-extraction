@@ -1,0 +1,23 @@
+# Ignore files in train, valid and test
+train/bike/*
+train/car/*
+train/motorcycle/*
+train/other/*
+train/truck/*
+train/van/*
+
+valid/bike/*
+valid/car/*
+valid/motorcycle/*
+valid/other/*
+valid/truck/*
+valid/van/*
+
+test/bike/*
+test/car/*
+test/motorcycle/*
+test/other/*
+test/truck/*
+test/van/*
+
+Transfer_learning.rtf
